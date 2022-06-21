@@ -1,0 +1,30 @@
+body {
+    background-color: #A2D2FF;
+}
+
+h1 {
+    color: #A2D2FF;
+    background-color: #FFC8DD;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+}
+
+a {
+    color: #FFF6F9;
+    text-decoration: none;
+}
+
+ul li,
+a:hover {
+    color: #FFC8DD;
+}
+
+.recipe li {
+    color: #FFF6F9;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
